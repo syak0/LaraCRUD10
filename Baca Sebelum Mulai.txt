@@ -1,0 +1,7 @@
+NAMA : Muhammad Zidan Syakiri 
+NIM  : 202169040020
+
+Ini menggunakan ekosistem breeze untuk login register,jadi untuk menjalankannya jangan lupa aktifkan
+
+npm run dev
+
